@@ -1,0 +1,19 @@
+{
+  "name": "commonjs_vs_ecmascript_modules",
+  "version": "1.0.0",
+  "description": "this is folder of commonJs vs EcmaScript Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commonJs"
+  ],
+  "author": "\"Asma\"",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
